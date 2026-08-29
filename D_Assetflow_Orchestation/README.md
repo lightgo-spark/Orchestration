@@ -7,7 +7,6 @@ that runs as a desktop application rather than a web service.
 This is not a mock-up. Every number below was read off a running build, and the
 PDF in this folder is the artifact that run actually wrote.
 
-한국어: [`README.ko.md`](README.ko.md)
 
 ## What is here
 
